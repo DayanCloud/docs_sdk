@@ -1,0 +1,11 @@
+sphinx_rtd_theme
+recommonmark
+myst-parser
+sphinx-markdown-tables
+rayvision_log
+rayvision_api
+rayvision_utils
+rayvision_sync
+rayvision_maya
+rayvision_clarisse
+rayvision_houdini
